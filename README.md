@@ -20,4 +20,4 @@ adapter. You may also use third-party Thunderbolt Ethernet adapters that support
 • Intel 82574L
 # Note: You cannot perform two-machine debugging using USB Ethernet adapters or wireless
 networking on any Mac.
-You must connect the host and target device to the same network, but there a
+You must connect the host and target device to the same network.

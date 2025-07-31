@@ -1,2 +1,2 @@
-# Kernel_Debug_Kit
+# Kernel_Debug_Kit for Kext-Drop
 

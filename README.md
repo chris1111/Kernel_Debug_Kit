@@ -18,6 +18,6 @@ adapter. You may also use third-party Thunderbolt Ethernet adapters that support
 • Broadcom C-IV
 • Aquantia AQC107/113
 • Intel 82574L
-# Note: You cannot perform two-machine debugging using USB Ethernet adapters or wireless
+#### Note: You cannot perform two-machine debugging using USB Ethernet adapters or wireless
 networking on any Mac.
 You must connect the host and target device to the same network.
